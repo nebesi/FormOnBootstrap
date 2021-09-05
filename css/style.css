@@ -1,0 +1,27 @@
+.main-title {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px;
+}
+
+.my-form {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.form-section {
+    min-height: calc(100vh - 220px);
+}
+
+footer {
+    padding: 20px;
+    height: 80px;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    width: 300px;
+    background-color: steelblue;
+    border: none;
+    height: 50px;
+}
